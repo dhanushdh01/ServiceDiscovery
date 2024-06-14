@@ -20,7 +20,7 @@ Payment Gateway Service [Here](https://github.com/dhanushdh01/E-Com-Payment-Serv
 
 Email Notification Service [Here](https://github.com/dhanushdh01/EmailService).
 
-Service Discovery Eureka client [Here](https://github.com/dhanushdh01/ServiceDiscovery).
+Service Discovery Eureka client [Here](https://github.com/dhanushdh01/ServiceDiscovery.git.
 
 Tools and Frameworks used :
 SpringBoot , SpringCloud , MySQL , Hibernate , Redis , Razorpay Payment Gateway , Stripe Payment Gateway , JUnit , Kafka 

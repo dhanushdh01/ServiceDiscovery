@@ -23,6 +23,7 @@ Key features:
 - **Payment Gateway Service:** [Here](https://github.com/dhanushdh01/E-Com-Payment-Service/tree/main/PaymentService)
 - **Email Notification Service:** [Here](https://github.com/dhanushdh01/EmailService)
 - **Service Discovery Eureka client:** [Here](https://github.com/dhanushdh01/ServiceDiscovery)
+- **Eureka Server:** [Here](https://github.com/dhanushdh01/Eureka-Server/blob/main/README.md)
 
 ## Tools and Frameworks Used
 
